@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "big-integer": "1.6.48",
-    "lodash": "4.17.5"
+    "lodash": "4.17.15"
   }
 }
