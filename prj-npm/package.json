@@ -1,0 +1,7 @@
+{
+  "name": "multi/npm",
+  "version": "0.1",
+  "dependencies": {
+    "encodeurl": "^1.0.1"
+  }
+}

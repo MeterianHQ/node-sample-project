@@ -1,0 +1,7 @@
+{
+  "name": "multi-yarn",
+  "version": "0.1",
+  "dependencies": {
+    "big-integer": "1.6.47"
+  }
+}
